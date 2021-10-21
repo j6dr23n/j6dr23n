@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.js And Django**
 
-- 📝 I regularly write articles on [dev.to/j6dr23n](dev.to/j6dr23n)
+- 📝 I regularly write articles on [j6dr23n.com](j6dr23n.com)
 
 - 💬 Ask me about **Laravel , Vue.js and web development things**
 
