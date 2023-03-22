@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j6dr23n&label=Profile%20views&color=0e75b6&style=flat" alt="j6dr23n" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue.js And Django**
+- 🌱 I’m currently learning **React.js, React Native And Next.js**
 
 - 📝 I regularly write articles on [j6dr23n.xyz](j6dr23n.xyz)
 
-- 💬 Ask me about **Laravel , Vue.js and web development things**
+- 💬 Ask me about **Laravel , Vue.js, React.js and web development things**
 
 - 📫 How to reach me **j6dr23n@gmail.com**
 
